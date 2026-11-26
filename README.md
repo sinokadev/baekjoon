@@ -3,6 +3,7 @@
 
 ## 다른 레포
 - https://github.com/sinokadev/dadasoj DOJ를 풉니다.
+- - https://github.com/sinokadev/jungol 전골을 풉니다.
 
 ## 기타
 
